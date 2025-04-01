@@ -1,0 +1,19 @@
+.selections{
+    position: relative;
+    left:30%;
+    text-align: center;
+    align-items: center;
+
+}
+table{
+    width: 1300px;
+}
+.pdfLink{
+    position: fixed;
+    right: 10%;
+}
+.navButton{
+    height: 100%;
+    background-color: rgb(1, 33, 51);
+    color:white;
+}
