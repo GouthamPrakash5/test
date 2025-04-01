@@ -1,0 +1,240 @@
+[{
+  "_id": {
+    "$oid": "67eb684ccd2e9f4f92854056"
+  },
+  "slNo": 1,
+  "ClientName": "Client 1",
+  "ClientCode": "C001",
+  "AdvancePaymentDate": "2025-01-15",
+  "CollectedDate": "2025-01-20",
+  "ReceiptNo": 1001,
+  "PaymentMode": "Credit Card"
+},
+{
+  "_id": {
+    "$oid": "67eb684ccd2e9f4f92854057"
+  },
+  "slNo": 2,
+  "ClientName": "Client 2",
+  "ClientCode": "C002",
+  "AdvancePaymentDate": "2025-02-10",
+  "CollectedDate": "2025-02-15",
+  "ReceiptNo": 1002,
+  "PaymentMode": "Cash"
+},
+{
+  "_id": {
+    "$oid": "67eb684ccd2e9f4f92854058"
+  },
+  "slNo": 3,
+  "ClientName": "Client 3",
+  "ClientCode": "C003",
+  "AdvancePaymentDate": "2025-03-05",
+  "CollectedDate": "2025-03-10",
+  "ReceiptNo": 1003,
+  "PaymentMode": "Bank Transfer"
+},
+{
+  "_id": {
+    "$oid": "67eb684ccd2e9f4f92854059"
+  },
+  "slNo": 4,
+  "ClientName": "Client 4",
+  "ClientCode": "C004",
+  "AdvancePaymentDate": "2025-04-01",
+  "CollectedDate": "2025-04-05",
+  "ReceiptNo": 1004,
+  "PaymentMode": "Credit Card"
+},
+{
+  "_id": {
+    "$oid": "67eb684ccd2e9f4f9285405a"
+  },
+  "slNo": 5,
+  "ClientName": "Client 5",
+  "ClientCode": "C005",
+  "AdvancePaymentDate": "2025-05-10",
+  "CollectedDate": "2025-05-15",
+  "ReceiptNo": 1005,
+  "PaymentMode": "Cheque"
+},
+{
+  "_id": {
+    "$oid": "67eb684ccd2e9f4f9285405b"
+  },
+  "slNo": 6,
+  "ClientName": "Client 6",
+  "ClientCode": "C006",
+  "AdvancePaymentDate": "2025-06-20",
+  "CollectedDate": "2025-06-25",
+  "ReceiptNo": 1006,
+  "PaymentMode": "Bank Transfer"
+},
+{
+  "_id": {
+    "$oid": "67eb684ccd2e9f4f9285405c"
+  },
+  "slNo": 7,
+  "ClientName": "Client 7",
+  "ClientCode": "C007",
+  "AdvancePaymentDate": "2025-07-15",
+  "CollectedDate": "2025-07-18",
+  "ReceiptNo": 1007,
+  "PaymentMode": "Cash"
+},
+{
+  "_id": {
+    "$oid": "67eb684ccd2e9f4f9285405d"
+  },
+  "slNo": 8,
+  "ClientName": "Client 8",
+  "ClientCode": "C008",
+  "AdvancePaymentDate": "2025-08-10",
+  "CollectedDate": "2025-08-15",
+  "ReceiptNo": 1008,
+  "PaymentMode": "Credit Card"
+},
+{
+  "_id": {
+    "$oid": "67eb684ccd2e9f4f9285405e"
+  },
+  "slNo": 9,
+  "ClientName": "Client 9",
+  "ClientCode": "C009",
+  "AdvancePaymentDate": "2025-09-25",
+  "CollectedDate": "2025-09-30",
+  "ReceiptNo": 1009,
+  "PaymentMode": "Cheque"
+},
+{
+  "_id": {
+    "$oid": "67eb684ccd2e9f4f9285405f"
+  },
+  "slNo": 10,
+  "ClientName": "Client 10",
+  "ClientCode": "C010",
+  "AdvancePaymentDate": "2025-10-01",
+  "CollectedDate": "2025-10-05",
+  "ReceiptNo": 1010,
+  "PaymentMode": "Bank Transfer"
+},
+{
+  "_id": {
+    "$oid": "67eb684ccd2e9f4f92854060"
+  },
+  "slNo": 11,
+  "ClientName": "Client 11",
+  "ClientCode": "C011",
+  "AdvancePaymentDate": "2025-11-10",
+  "CollectedDate": "2025-11-15",
+  "ReceiptNo": 1011,
+  "PaymentMode": "Cash"
+},
+{
+  "_id": {
+    "$oid": "67eb684ccd2e9f4f92854061"
+  },
+  "slNo": 12,
+  "ClientName": "Client 12",
+  "ClientCode": "C012",
+  "AdvancePaymentDate": "2025-12-05",
+  "CollectedDate": "2025-12-10",
+  "ReceiptNo": 1012,
+  "PaymentMode": "Credit Card"
+},
+{
+  "_id": {
+    "$oid": "67eb684ccd2e9f4f92854062"
+  },
+  "slNo": 13,
+  "ClientName": "Client 13",
+  "ClientCode": "C013",
+  "AdvancePaymentDate": "2025-01-10",
+  "CollectedDate": "2025-01-12",
+  "ReceiptNo": 1013,
+  "PaymentMode": "Cheque"
+},
+{
+  "_id": {
+    "$oid": "67eb684ccd2e9f4f92854063"
+  },
+  "slNo": 14,
+  "ClientName": "Client 14",
+  "ClientCode": "C014",
+  "AdvancePaymentDate": "2025-02-20",
+  "CollectedDate": "2025-02-25",
+  "ReceiptNo": 1014,
+  "PaymentMode": "Bank Transfer"
+},
+{
+  "_id": {
+    "$oid": "67eb684ccd2e9f4f92854064"
+  },
+  "slNo": 15,
+  "ClientName": "Client 15",
+  "ClientCode": "C015",
+  "AdvancePaymentDate": "2025-03-10",
+  "CollectedDate": "2025-03-12",
+  "ReceiptNo": 1015,
+  "PaymentMode": "Cash"
+},
+{
+  "_id": {
+    "$oid": "67eb684ccd2e9f4f92854065"
+  },
+  "slNo": 16,
+  "ClientName": "Client 16",
+  "ClientCode": "C016",
+  "AdvancePaymentDate": "2025-04-01",
+  "CollectedDate": "2025-04-04",
+  "ReceiptNo": 1016,
+  "PaymentMode": "Credit Card"
+},
+{
+  "_id": {
+    "$oid": "67eb684ccd2e9f4f92854066"
+  },
+  "slNo": 17,
+  "ClientName": "Client 17",
+  "ClientCode": "C017",
+  "AdvancePaymentDate": "2025-05-05",
+  "CollectedDate": "2025-05-08",
+  "ReceiptNo": 1017,
+  "PaymentMode": "Cheque"
+},
+{
+  "_id": {
+    "$oid": "67eb684ccd2e9f4f92854067"
+  },
+  "slNo": 18,
+  "ClientName": "Client 18",
+  "ClientCode": "C018",
+  "AdvancePaymentDate": "2025-06-01",
+  "CollectedDate": "2025-06-05",
+  "ReceiptNo": 1018,
+  "PaymentMode": "Bank Transfer"
+},
+{
+  "_id": {
+    "$oid": "67eb684ccd2e9f4f92854068"
+  },
+  "slNo": 19,
+  "ClientName": "Client 19",
+  "ClientCode": "C019",
+  "AdvancePaymentDate": "2025-07-10",
+  "CollectedDate": "2025-07-12",
+  "ReceiptNo": 1019,
+  "PaymentMode": "Cash"
+},
+{
+  "_id": {
+    "$oid": "67eb684ccd2e9f4f92854069"
+  },
+  "slNo": 20,
+  "ClientName": "Client 20",
+  "ClientCode": "C020",
+  "AdvancePaymentDate": "2025-08-05",
+  "CollectedDate": "2025-08-10",
+  "ReceiptNo": 1020,
+  "PaymentMode": "Credit Card"
+}]
